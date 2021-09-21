@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="district">District</string>
+    <string name="active">Active</string>
+    <string name="_1234">1234</string>
+    <string name="deceased">Deceased</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="delta">Delta</string>
+    <string name="recovered">Recovered</string>
+
+    <string name="title_activity_data">Data</string>
+</resources>
